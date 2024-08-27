@@ -1,7 +1,6 @@
 # NewsMVVM (Alpha version)
 
 @todo:
-1) Details module
-2) Separate loading of images
-3) Snapkit -> Anchors
-4) UnitTests
+1) Separate loading of images
+2) Snapkit -> Anchors
+3) UnitTests
