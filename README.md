@@ -1,4 +1,4 @@
-# NewsMVVM
+# NewsMVVM (Alpha version)
 
 @todo:
 1) Details module
